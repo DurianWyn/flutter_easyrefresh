@@ -1,3 +1,6 @@
+Copy https://github.com/xuelongqy/flutter_easyrefresh/tree/v2
+只是为了修改自用 去掉没有数据时的沙漏图标
+
 # flutter_easyrefresh
 
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](/LICENSE)
